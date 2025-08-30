@@ -6,7 +6,7 @@ A comprehensive data analysis project that explores sales performance, customer 
 
 This project analyzes retail sales data to uncover patterns, trends, and insights that can help optimize business operations and improve profitability. The analysis covers multiple dimensions including sales performance, customer demographics, product categories, and payment methods.
 
-## 🗃️ Dataset Description
+## Dataset Description
 
 ### Orders.csv
 
@@ -26,7 +26,7 @@ This project analyzes retail sales data to uncover patterns, trends, and insight
 - **Sub-Category**: Specific product type within category
 - **Payment Mode**: Payment method (COD, Credit Card, EMI, UPI, Debit Card)
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Prerequisites
 
@@ -116,13 +116,6 @@ This analysis can help:
 - **Customer Service**: Understand customer preferences and behavior
 - **Financial Planning**: Identify revenue opportunities and cost optimization
 
-## Contributing
-
-Feel free to contribute to this project by:
-
-- Suggesting additional analysis dimensions
-- Improving visualizations
-- Adding new datasets
-- Enhancing the dashboard functionality
 
 **Note**: This dashboard is designed for educational and business intelligence purposes. The data represents a sample retail business scenario and should be used for learning and demonstration purposes.
+
