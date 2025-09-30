@@ -2,6 +2,9 @@
 
 A comprehensive data analysis project that explores sales performance, customer behavior, and business insights from an Australian retail business using Power BI.
 
+![Alt text](https://github.comnfahajan/retail-hop-sales-dashboard/Dashboard Screenshot.png?raw=true)
+
+
 ## Project Overview
 
 This project analyzes retail sales data to uncover patterns, trends, and insights that can help optimize business operations and improve profitability. The analysis covers multiple dimensions including sales performance, customer demographics, product categories, and payment methods.
@@ -109,5 +112,6 @@ The Power BI dashboard includes:
 
 
 **Note**: This dashboard is designed for educational and business intelligence purposes. The data represents a sample retail business scenario and should be used for learning and demonstration purposes.
+
 
 
